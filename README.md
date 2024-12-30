@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/AmankeldinovaMadina/kaz_sub.git
 ```
-### 2. Clone the Repository
+### 2. Intstall dependecies 
 ```
 pip install -r requirements.txt
 ```
