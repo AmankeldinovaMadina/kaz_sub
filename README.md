@@ -10,7 +10,6 @@ This project translates subtitles from Russian to Kazakh using OpenAI's ChatGPT 
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/AmankeldinovaMadina/kaz_sub.git
-cd kaz_sub
 ```
 ### 2. Clone the Repository
 ```
